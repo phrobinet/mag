@@ -10,8 +10,6 @@ main:
 
 ## ::block-hero
 
----
-
 cta:
 
 - Get started
@@ -23,7 +21,7 @@ cta:
 ---
 
 #title
-Le meilleur endroit pour commencer votre documentation.
+The best place to start your documentation.
 
 #description
 Write pages in [Markdown](https://content.nuxtjs.org), use [Vue](https://vuejs.org) components and enjoy the power of [Nuxt](https://nuxt.com).
